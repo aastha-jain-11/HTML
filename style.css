@@ -1,29 +1,31 @@
 h4{
     font-size: 30px;
-    font-family: Imprint MT Shadow;
+    font-family: Georgia Pro;
     margin: 70px 0px 10px 70px;
 }
 
 
-h6{
-    font-size: 20px;
-    margin: 0px 650px 50px 70px;
-    font-weight: normal
-}
-
 h3{
     font-size:22px;
-    margin: 30px 0px 10px 0px;
+    margin: 30px 0px 10px 10px;
 }
 
 h2{
     font-size: 20px;
-    margin: 0px 0px 50px 0px;
+    color: brown;
+    margin: 0px 0px 30px 10px;
     font-weight: normal
+
 }
 
 table{
-    margin: 100px 0px 0px 50px;
+    margin: 40px 0px 0px 50px;
+    font-size: 18px;
+}
+
+@keyframes drop{
+    0% {opacity:0;}
+    100%{opacity:1;}
 }
 
 .img-member{
@@ -43,8 +45,13 @@ table{
     margin-right: 30px;
 }
 
+.premium{
+    background-color: #FFB3B6;
+    animation: drop 2s ease;
+}
+
 .card-body{
-    background-color: #EEEEEE;
+    background-color: #E5FFE5;
 }
 
 .nav-link{
@@ -54,6 +61,6 @@ table{
 
 .navbar-brand{
     font-size: 30px;
-    font-family: Imprint MT Shadow;
+    font-family: Curlz MT;
     margin-left: 20px;
 }
