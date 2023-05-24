@@ -1,0 +1,59 @@
+h4{
+    font-size: 30px;
+    font-family: Imprint MT Shadow;
+    margin: 70px 0px 10px 70px;
+}
+
+
+h6{
+    font-size: 20px;
+    margin: 0px 650px 50px 70px;
+    font-weight: normal
+}
+
+h3{
+    font-size:22px;
+    margin: 30px 0px 10px 0px;
+}
+
+h2{
+    font-size: 20px;
+    margin: 0px 0px 50px 0px;
+    font-weight: normal
+}
+
+table{
+    margin: 100px 0px 0px 50px;
+}
+
+.img-member{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin: 0px 0px 10px 0px;
+}
+
+.name-member{
+    margin: 0px 0px 10px 55px;
+    color: #000000;
+}
+
+.row{
+    margin-left: 50px;
+    margin-right: 30px;
+}
+
+.card-body{
+    background-color: #EEEEEE;
+}
+
+.nav-link{
+    font-size: 19px;
+    margin-left: 10px;
+}
+
+.navbar-brand{
+    font-size: 30px;
+    font-family: Imprint MT Shadow;
+    margin-left: 20px;
+}
